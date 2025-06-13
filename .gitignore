@@ -6,3 +6,6 @@
 /single_cnn/_pycache_
 /single_cnn/venv
 *.pth
+
+
+!/single_cnn/pth/final_model_thread2.pth
