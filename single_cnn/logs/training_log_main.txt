@@ -1,0 +1,734 @@
+[2025-06-12 19:19:35] [线程0] 线程0: 使用设备 cuda
+[2025-06-12 19:19:35] [线程0] 线程0: 开始训练 - batch_size=64, epochs=200, lr=0.001
+[2025-06-12 19:20:07] [线程0] 线程0: 使用设备 cuda
+[2025-06-12 19:20:07] [线程0] 线程0: 开始训练 - batch_size=64, epochs=200, lr=0.001
+[2025-06-12 19:22:07] [线程0] 线程0: 使用设备 cuda
+[2025-06-12 19:22:07] [线程0] 线程0: 开始训练 - batch_size=64, epochs=200, lr=0.001
+[2025-06-12 19:25:30] [线程0] 线程0: 使用设备 cuda
+[2025-06-12 19:25:30] [线程0] 线程0: 开始训练 - batch_size=64, epochs=200, lr=0.001
+[2025-06-12 19:26:47] [线程0] 线程0: 使用设备 cuda
+[2025-06-12 19:26:47] [线程0] 线程0: 开始训练 - batch_size=64, epochs=200, lr=0.001
+[2025-06-12 19:26:47] [线程0] 线程0: PyTorch版本: 2.7.1+cu118
+[2025-06-12 19:38:42] [线程0] 线程0: 使用设备 cuda
+[2025-06-12 19:38:42] [线程0] 线程0: 开始训练 - batch_size=64, epochs=200, lr=0.001
+[2025-06-12 19:38:42] [线程0] 线程0: PyTorch版本: 2.7.1+cu118
+[2025-06-12 19:39:27] [线程0] 线程0 Epoch 1/200: 训练损失: 1.6805, 训练准确率: 48.67% | 验证损失: 1.4313, 验证准确率: 61.51% | 学习率: 0.001000
+[2025-06-12 19:39:27] [线程0] 线程0: 保存最佳模型 @ Epoch 1, 验证准确率: 61.51%
+[2025-06-12 19:40:11] [线程0] 线程0 Epoch 2/200: 训练损失: 0.9155, 训练准确率: 86.08% | 验证损失: 1.1750, 验证准确率: 68.25% | 学习率: 0.001000
+[2025-06-12 19:40:11] [线程0] 线程0: 保存最佳模型 @ Epoch 2, 验证准确率: 68.25%
+[2025-06-12 19:40:54] [线程0] 线程0 Epoch 3/200: 训练损失: 0.7032, 训练准确率: 93.40% | 验证损失: 0.7635, 验证准确率: 90.21% | 学习率: 0.001000
+[2025-06-12 19:40:54] [线程0] 线程0: 保存最佳模型 @ Epoch 3, 验证准确率: 90.21%
+[2025-06-12 19:41:36] [线程0] 线程0 Epoch 4/200: 训练损失: 0.6496, 训练准确率: 95.10% | 验证损失: 1.0233, 验证准确率: 78.64% | 学习率: 0.001000
+[2025-06-12 19:42:17] [线程0] 线程0 Epoch 5/200: 训练损失: 0.6313, 训练准确率: 95.80% | 验证损失: 0.5980, 验证准确率: 96.69% | 学习率: 0.001000
+[2025-06-12 19:42:17] [线程0] 线程0: 保存最佳模型 @ Epoch 5, 验证准确率: 96.69%
+[2025-06-12 19:42:57] [线程0] 线程0 Epoch 6/200: 训练损失: 0.6065, 训练准确率: 96.63% | 验证损失: 0.5990, 验证准确率: 96.30% | 学习率: 0.001000
+[2025-06-12 19:43:35] [线程0] 线程0 Epoch 7/200: 训练损失: 0.5792, 训练准确率: 97.68% | 验证损失: 0.5820, 验证准确率: 97.02% | 学习率: 0.001000
+[2025-06-12 19:43:35] [线程0] 线程0: 保存最佳模型 @ Epoch 7, 验证准确率: 97.02%
+[2025-06-12 19:44:13] [线程0] 线程0 Epoch 8/200: 训练损失: 0.5762, 训练准确率: 98.10% | 验证损失: 0.6860, 验证准确率: 93.85% | 学习率: 0.001000
+[2025-06-12 19:44:51] [线程0] 线程0 Epoch 9/200: 训练损失: 0.5692, 训练准确率: 97.87% | 验证损失: 0.5931, 验证准确率: 96.83% | 学习率: 0.001000
+[2025-06-12 19:45:29] [线程0] 线程0 Epoch 10/200: 训练损失: 0.5718, 训练准确率: 97.93% | 验证损失: 0.5777, 验证准确率: 97.49% | 学习率: 0.001000
+[2025-06-12 19:45:30] [线程0] 线程0: 保存最佳模型 @ Epoch 10, 验证准确率: 97.49%
+[2025-06-12 19:46:07] [线程0] 线程0 Epoch 11/200: 训练损失: 0.5452, 训练准确率: 98.87% | 验证损失: 0.5800, 验证准确率: 97.02% | 学习率: 0.001000
+[2025-06-12 19:46:45] [线程0] 线程0 Epoch 12/200: 训练损失: 0.5465, 训练准确率: 98.67% | 验证损失: 0.5796, 验证准确率: 97.49% | 学习率: 0.001000
+[2025-06-12 19:47:22] [线程0] 线程0 Epoch 13/200: 训练损失: 0.5661, 训练准确率: 98.16% | 验证损失: 0.6152, 验证准确率: 96.49% | 学习率: 0.001000
+[2025-06-12 19:48:02] [线程0] 线程0 Epoch 14/200: 训练损失: 0.5511, 训练准确率: 98.61% | 验证损失: 0.5762, 验证准确率: 97.16% | 学习率: 0.001000
+[2025-06-12 19:48:45] [线程0] 线程0 Epoch 15/200: 训练损失: 0.5497, 训练准确率: 98.55% | 验证损失: 0.6353, 验证准确率: 95.24% | 学习率: 0.001000
+[2025-06-12 19:49:28] [线程0] 线程0 Epoch 16/200: 训练损失: 0.5551, 训练准确率: 98.50% | 验证损失: 0.5734, 验证准确率: 97.42% | 学习率: 0.000500
+[2025-06-12 19:50:12] [线程0] 线程0 Epoch 17/200: 训练损失: 0.5385, 训练准确率: 98.84% | 验证损失: 0.5820, 验证准确率: 97.09% | 学习率: 0.000500
+[2025-06-12 19:50:55] [线程0] 线程0 Epoch 18/200: 训练损失: 0.5336, 训练准确率: 99.09% | 验证损失: 0.5684, 验证准确率: 97.62% | 学习率: 0.000500
+[2025-06-12 19:50:55] [线程0] 线程0: 保存最佳模型 @ Epoch 18, 验证准确率: 97.62%
+[2025-06-12 19:51:38] [线程0] 线程0 Epoch 19/200: 训练损失: 0.5303, 训练准确率: 99.29% | 验证损失: 0.5641, 验证准确率: 97.69% | 学习率: 0.000500
+[2025-06-12 19:51:38] [线程0] 线程0: 保存最佳模型 @ Epoch 19, 验证准确率: 97.69%
+[2025-06-12 19:52:19] [线程0] 线程0 Epoch 20/200: 训练损失: 0.5250, 训练准确率: 99.52% | 验证损失: 0.5680, 验证准确率: 97.62% | 学习率: 0.000500
+[2025-06-12 19:53:00] [线程0] 线程0 Epoch 21/200: 训练损失: 0.5366, 训练准确率: 99.01% | 验证损失: 0.5725, 验证准确率: 97.55% | 学习率: 0.000500
+[2025-06-12 19:53:42] [线程0] 线程0 Epoch 22/200: 训练损失: 0.5311, 训练准确率: 99.15% | 验证损失: 0.5645, 验证准确率: 97.55% | 学习率: 0.000500
+[2025-06-12 19:54:24] [线程0] 线程0 Epoch 23/200: 训练损失: 0.5272, 训练准确率: 99.40% | 验证损失: 0.5630, 验证准确率: 97.88% | 学习率: 0.000500
+[2025-06-12 19:54:24] [线程0] 线程0: 保存最佳模型 @ Epoch 23, 验证准确率: 97.88%
+[2025-06-12 19:55:07] [线程0] 线程0 Epoch 24/200: 训练损失: 0.5272, 训练准确率: 99.40% | 验证损失: 0.5632, 验证准确率: 97.55% | 学习率: 0.000500
+[2025-06-12 19:55:51] [线程0] 线程0 Epoch 25/200: 训练损失: 0.5201, 训练准确率: 99.63% | 验证损失: 0.5597, 验证准确率: 97.82% | 学习率: 0.000500
+[2025-06-12 19:56:31] [线程0] 线程0 Epoch 26/200: 训练损失: 0.5210, 训练准确率: 99.57% | 验证损失: 0.5606, 验证准确率: 98.02% | 学习率: 0.000500
+[2025-06-12 19:56:31] [线程0] 线程0: 保存最佳模型 @ Epoch 26, 验证准确率: 98.02%
+[2025-06-12 19:57:10] [线程0] 线程0 Epoch 27/200: 训练损失: 0.5203, 训练准确率: 99.63% | 验证损失: 0.5596, 验证准确率: 97.75% | 学习率: 0.000500
+[2025-06-12 19:57:48] [线程0] 线程0 Epoch 28/200: 训练损失: 0.5189, 训练准确率: 99.66% | 验证损失: 0.5723, 验证准确率: 97.35% | 学习率: 0.000500
+[2025-06-12 19:58:27] [线程0] 线程0 Epoch 29/200: 训练损失: 0.5272, 训练准确率: 99.52% | 验证损失: 0.5692, 验证准确率: 97.35% | 学习率: 0.000500
+[2025-06-12 19:59:01] [线程0] 线程0 Epoch 30/200: 训练损失: 0.5200, 训练准确率: 99.55% | 验证损失: 0.5615, 验证准确率: 97.69% | 学习率: 0.000500
+[2025-06-12 19:59:35] [线程0] 线程0 Epoch 31/200: 训练损失: 0.5163, 训练准确率: 99.74% | 验证损失: 0.5658, 验证准确率: 97.55% | 学习率: 0.000500
+[2025-06-12 20:00:09] [线程0] 线程0 Epoch 32/200: 训练损失: 0.5183, 训练准确率: 99.60% | 验证损失: 0.5588, 验证准确率: 98.08% | 学习率: 0.000500
+[2025-06-12 20:00:09] [线程0] 线程0: 保存最佳模型 @ Epoch 32, 验证准确率: 98.08%
+[2025-06-12 20:00:42] [线程0] 线程0 Epoch 33/200: 训练损失: 0.5170, 训练准确率: 99.80% | 验证损失: 0.5611, 验证准确率: 97.75% | 学习率: 0.000500
+[2025-06-12 20:01:17] [线程0] 线程0 Epoch 34/200: 训练损失: 0.5172, 训练准确率: 99.72% | 验证损失: 0.5741, 验证准确率: 97.35% | 学习率: 0.000500
+[2025-06-12 20:01:52] [线程0] 线程0 Epoch 35/200: 训练损失: 0.5373, 训练准确率: 98.84% | 验证损失: 0.5714, 验证准确率: 97.49% | 学习率: 0.000500
+[2025-06-12 20:02:27] [线程0] 线程0 Epoch 36/200: 训练损失: 0.5194, 训练准确率: 99.72% | 验证损失: 0.5610, 验证准确率: 97.88% | 学习率: 0.000500
+[2025-06-12 20:03:02] [线程0] 线程0 Epoch 37/200: 训练损失: 0.5157, 训练准确率: 99.77% | 验证损失: 0.5671, 验证准确率: 97.55% | 学习率: 0.000500
+[2025-06-12 20:03:36] [线程0] 线程0 Epoch 38/200: 训练损失: 0.5335, 训练准确率: 99.04% | 验证损失: 0.5688, 验证准确率: 97.49% | 学习率: 0.000250
+[2025-06-12 20:04:11] [线程0] 线程0 Epoch 39/200: 训练损失: 0.5199, 训练准确率: 99.52% | 验证损失: 0.5641, 验证准确率: 97.75% | 学习率: 0.000250
+[2025-06-12 20:04:45] [线程0] 线程0 Epoch 40/200: 训练损失: 0.5155, 训练准确率: 99.74% | 验证损失: 0.5574, 验证准确率: 97.95% | 学习率: 0.000250
+[2025-06-12 20:05:19] [线程0] 线程0 Epoch 41/200: 训练损失: 0.5178, 训练准确率: 99.72% | 验证损失: 0.5544, 验证准确率: 98.08% | 学习率: 0.000250
+[2025-06-12 20:05:53] [线程0] 线程0 Epoch 42/200: 训练损失: 0.5148, 训练准确率: 99.74% | 验证损失: 0.5536, 验证准确率: 97.95% | 学习率: 0.000250
+[2025-06-12 20:05:53] [线程0] 线程0: 早停触发 @ Epoch 42, 最佳验证准确率: 98.08% @ Epoch 32
+[2025-06-12 20:05:53] [线程0] 线程0: 训练完成，最终模型已保存。最佳验证准确率: 98.08%
+[2025-06-12 20:33:31] [线程0] 线程0: 使用设备 cuda
+[2025-06-12 20:33:31] [线程0] 线程0: 开始训练 - batch_size=64, epochs=200, lr=0.001
+[2025-06-12 20:33:31] [线程0] 线程0: PyTorch版本: 2.7.1+cu118
+[2025-06-12 20:38:42] [线程0] 线程0: 使用设备 cuda
+[2025-06-12 20:38:42] [线程0] 线程0: 开始训练 - batch_size=64, epochs=200, lr=0.001
+[2025-06-12 20:38:43] [线程0] 线程0: PyTorch版本: 2.7.1+cu118
+[2025-06-12 20:39:32] [线程0] 线程0 Epoch 1/200: 训练损失: 1.7088, 训练准确率: 45.29% | 验证准确率: 6.35% | 学习率: 0.001000
+[2025-06-12 20:39:32] [线程0] 线程0: 保存最佳模型 @ Epoch 1, 验证准确率: 6.35%
+[2025-06-12 20:40:15] [线程0] 线程0 Epoch 2/200: 训练损失: 0.9058, 训练准确率: 87.44% | 验证准确率: 3.17% | 学习率: 0.001000
+[2025-06-12 20:40:50] [线程0] 线程0: 使用设备 cuda
+[2025-06-12 20:40:50] [线程0] 线程0: 开始训练 - batch_size=64, epochs=200, lr=0.001
+[2025-06-12 20:40:50] [线程0] 线程0: PyTorch版本: 2.7.1+cu118
+[2025-06-12 20:41:33] [线程0] 线程0 Epoch 1/200: 训练损失: 1.7418, 训练准确率: 44.39% | 验证准确率: 2/252 0.79% | 学习率: 0.001000
+[2025-06-12 20:41:33] [线程0] 线程0: 保存最佳模型 @ Epoch 1, 验证准确率: 0.79%
+[2025-06-12 20:42:18] [线程0] 线程0 Epoch 2/200: 训练损失: 0.9106, 训练准确率: 86.08% | 验证准确率: 1/252 0.40% | 学习率: 0.001000
+[2025-06-12 20:43:03] [线程0] 线程0 Epoch 3/200: 训练损失: 0.7211, 训练准确率: 92.97% | 验证准确率: 141/252 55.95% | 学习率: 0.001000
+[2025-06-12 20:43:03] [线程0] 线程0: 保存最佳模型 @ Epoch 3, 验证准确率: 55.95%
+[2025-06-12 20:43:45] [线程0] 线程0 Epoch 4/200: 训练损失: 0.6586, 训练准确率: 94.87% | 验证准确率: 181/252 71.83% | 学习率: 0.001000
+[2025-06-12 20:43:45] [线程0] 线程0: 保存最佳模型 @ Epoch 4, 验证准确率: 71.83%
+[2025-06-12 20:44:33] [线程0] 线程0 Epoch 5/200: 训练损失: 0.6043, 训练准确率: 96.94% | 验证准确率: 180/252 71.43% | 学习率: 0.001000
+[2025-06-12 20:45:17] [线程0] 线程0 Epoch 6/200: 训练损失: 0.6155, 训练准确率: 96.60% | 验证准确率: 203/252 80.56% | 学习率: 0.001000
+[2025-06-12 20:45:17] [线程0] 线程0: 保存最佳模型 @ Epoch 6, 验证准确率: 80.56%
+[2025-06-12 20:46:02] [线程0] 线程0 Epoch 7/200: 训练损失: 0.5923, 训练准确率: 97.31% | 验证准确率: 206/252 81.75% | 学习率: 0.001000
+[2025-06-12 20:46:02] [线程0] 线程0: 保存最佳模型 @ Epoch 7, 验证准确率: 81.75%
+[2025-06-12 20:46:43] [线程0] 线程0 Epoch 8/200: 训练损失: 0.5703, 训练准确率: 98.19% | 验证准确率: 213/252 84.52% | 学习率: 0.001000
+[2025-06-12 20:46:43] [线程0] 线程0: 保存最佳模型 @ Epoch 8, 验证准确率: 84.52%
+[2025-06-12 20:47:03] [线程0] 线程0: 使用设备 cuda
+[2025-06-12 20:47:03] [线程0] 线程0: 开始训练 - batch_size=64, epochs=200, lr=0.001
+[2025-06-12 20:47:03] [线程0] 线程0: PyTorch版本: 2.7.1+cu118
+[2025-06-12 20:47:47] [线程0] 线程0 Epoch 1/200: 训练损失: 1.7287, 训练准确率: 44.50% | 验证准确率: 14/252 5.56% | 学习率: 0.001000
+[2025-06-12 20:47:47] [线程0] 线程0: 保存最佳模型 @ Epoch 1, 验证准确率: 5.56%
+[2025-06-12 20:48:29] [线程0] 线程0 Epoch 2/200: 训练损失: 0.9467, 训练准确率: 84.86% | 验证准确率: 7/252 2.78% | 学习率: 0.001000
+[2025-06-12 20:49:17] [线程0] 线程0 Epoch 3/200: 训练损失: 0.7097, 训练准确率: 93.48% | 验证准确率: 81/252 32.14% | 学习率: 0.001000
+[2025-06-12 20:49:17] [线程0] 线程0: 保存最佳模型 @ Epoch 3, 验证准确率: 32.14%
+[2025-06-12 20:50:04] [线程0] 线程0 Epoch 4/200: 训练损失: 0.6561, 训练准确率: 95.01% | 验证准确率: 189/252 75.00% | 学习率: 0.001000
+[2025-06-12 20:50:04] [线程0] 线程0: 保存最佳模型 @ Epoch 4, 验证准确率: 75.00%
+[2025-06-12 20:50:54] [线程0] 线程0 Epoch 5/200: 训练损失: 0.6151, 训练准确率: 96.68% | 验证准确率: 140/252 55.56% | 学习率: 0.001000
+[2025-06-12 20:51:46] [线程0] 线程0 Epoch 6/200: 训练损失: 0.5993, 训练准确率: 97.53% | 验证准确率: 216/252 85.71% | 学习率: 0.001000
+[2025-06-12 20:51:46] [线程0] 线程0: 保存最佳模型 @ Epoch 6, 验证准确率: 85.71%
+[2025-06-12 20:52:36] [线程0] 线程0 Epoch 7/200: 训练损失: 0.6018, 训练准确率: 97.19% | 验证准确率: 170/252 67.46% | 学习率: 0.001000
+[2025-06-12 20:53:21] [线程0] 线程0 Epoch 8/200: 训练损失: 0.5835, 训练准确率: 97.31% | 验证准确率: 214/252 84.92% | 学习率: 0.001000
+[2025-06-12 20:54:06] [线程0] 线程0 Epoch 9/200: 训练损失: 0.5680, 训练准确率: 98.02% | 验证准确率: 211/252 83.73% | 学习率: 0.001000
+[2025-06-12 20:54:52] [线程0] 线程0 Epoch 10/200: 训练损失: 0.5721, 训练准确率: 97.82% | 验证准确率: 213/252 84.52% | 学习率: 0.001000
+[2025-06-12 20:55:35] [线程0] 线程0 Epoch 11/200: 训练损失: 0.5650, 训练准确率: 97.99% | 验证准确率: 143/252 56.75% | 学习率: 0.001000
+[2025-06-12 20:56:16] [线程0] 线程0 Epoch 12/200: 训练损失: 0.5557, 训练准确率: 98.44% | 验证准确率: 202/252 80.16% | 学习率: 0.000500
+[2025-06-12 20:56:57] [线程0] 线程0 Epoch 13/200: 训练损失: 0.5392, 训练准确率: 98.92% | 验证准确率: 226/252 89.68% | 学习率: 0.000500
+[2025-06-12 20:56:57] [线程0] 线程0: 保存最佳模型 @ Epoch 13, 验证准确率: 89.68%
+[2025-06-12 20:57:40] [线程0] 线程0 Epoch 14/200: 训练损失: 0.5314, 训练准确率: 99.23% | 验证准确率: 218/252 86.51% | 学习率: 0.000500
+[2025-06-12 20:58:25] [线程0] 线程0 Epoch 15/200: 训练损失: 0.5305, 训练准确率: 99.21% | 验证准确率: 218/252 86.51% | 学习率: 0.000500
+[2025-06-12 20:59:07] [线程0] 线程0 Epoch 16/200: 训练损失: 0.5462, 训练准确率: 98.72% | 验证准确率: 220/252 87.30% | 学习率: 0.000500
+[2025-06-12 20:59:47] [线程0] 线程0 Epoch 17/200: 训练损失: 0.5308, 训练准确率: 99.32% | 验证准确率: 225/252 89.29% | 学习率: 0.000500
+[2025-06-12 21:00:29] [线程0] 线程0 Epoch 18/200: 训练损失: 0.5276, 训练准确率: 99.46% | 验证准确率: 217/252 86.11% | 学习率: 0.000500
+[2025-06-12 21:01:11] [线程0] 线程0 Epoch 19/200: 训练损失: 0.5370, 训练准确率: 99.15% | 验证准确率: 220/252 87.30% | 学习率: 0.000250
+[2025-06-12 21:01:53] [线程0] 线程0 Epoch 20/200: 训练损失: 0.5305, 训练准确率: 99.23% | 验证准确率: 217/252 86.11% | 学习率: 0.000250
+[2025-06-12 21:02:36] [线程0] 线程0 Epoch 21/200: 训练损失: 0.5287, 训练准确率: 99.26% | 验证准确率: 226/252 89.68% | 学习率: 0.000250
+[2025-06-12 21:03:16] [线程0] 线程0 Epoch 22/200: 训练损失: 0.5212, 训练准确率: 99.60% | 验证准确率: 225/252 89.29% | 学习率: 0.000250
+[2025-06-12 21:03:57] [线程0] 线程0 Epoch 23/200: 训练损失: 0.5250, 训练准确率: 99.43% | 验证准确率: 223/252 88.49% | 学习率: 0.000250
+[2025-06-12 21:03:57] [线程0] 线程0: 早停触发 @ Epoch 23, 最佳验证准确率: 89.68% @ Epoch 13
+[2025-06-12 21:03:57] [线程0] 线程0: 训练完成，最终模型已保存。最佳验证准确率: 89.68%
+[2025-06-12 23:56:23] [crop_and_save_images] Image 1 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 2 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 3 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 4 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 5 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 6 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 7 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 8 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 9 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 10 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 11 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 12 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 13 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 14 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 15 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 16 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 17 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 18 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 19 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 20 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 21 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 22 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 23 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 24 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 25 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 26 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 27 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 28 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 29 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 30 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 31 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 32 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 33 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 34 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 35 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 36 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 37 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 38 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 39 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 40 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 41 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 42 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 43 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 44 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 45 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 46 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 47 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 48 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 49 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 50 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 51 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 52 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 53 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 54 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 55 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 56 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 57 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 58 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 59 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 60 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 61 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 62 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 63 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 64 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 65 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 66 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 67 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 68 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 69 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 70 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 71 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 72 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 73 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 74 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 75 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 76 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 77 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 78 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 79 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 80 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 81 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 82 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 83 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 84 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 85 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 86 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 87 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 88 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 89 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 90 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 91 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 92 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 93 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 94 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 95 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 96 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 97 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 98 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 99 not found in images directory
+[2025-06-12 23:56:23] [crop_and_save_images] Image 100 not found in images directory
+[2025-06-12 23:56:23] [split_images_parts] 找到 100 张图片需要处理
+[2025-06-12 23:56:33] [crop_and_save_images] Image 1 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 2 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 3 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 4 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 5 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 6 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 7 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 8 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 9 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 10 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 11 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 12 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 13 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 14 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 15 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 16 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 17 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 18 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 19 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 20 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 21 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 22 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 23 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 24 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 25 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 26 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 27 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 28 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 29 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 30 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 31 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 32 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 33 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 34 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 35 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 36 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 37 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 38 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 39 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 40 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 41 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 42 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 43 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 44 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 45 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 46 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 47 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 48 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 49 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 50 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 51 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 52 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 53 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 54 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 55 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 56 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 57 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 58 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 59 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 60 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 61 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 62 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 63 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 64 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 65 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 66 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 67 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 68 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 69 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 70 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 71 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 72 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 73 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 74 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 75 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 76 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 77 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 78 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 79 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 80 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 81 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 82 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 83 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 84 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 85 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 86 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 87 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 88 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 89 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 90 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 91 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 92 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 93 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 94 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 95 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 96 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 97 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 98 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 99 not found in images directory
+[2025-06-12 23:56:33] [crop_and_save_images] Image 100 not found in images directory
+[2025-06-12 23:56:33] [split_images_parts] 找到 100 张图片需要处理
+[2025-06-13 00:01:03] [crop_and_save_images] Image 1 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 2 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 3 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 4 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 5 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 6 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 7 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 8 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 9 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 10 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 11 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 12 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 13 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 14 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 15 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 16 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 17 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 18 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 19 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 20 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 21 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 22 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 23 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 24 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 25 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 26 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 27 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 28 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 29 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 30 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 31 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 32 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 33 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 34 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 35 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 36 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 37 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 38 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 39 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 40 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 41 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 42 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 43 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 44 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 45 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 46 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 47 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 48 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 49 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 50 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 51 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 52 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 53 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 54 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 55 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 56 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 57 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 58 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 59 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 60 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 61 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 62 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 63 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 64 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 65 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 66 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 67 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 68 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 69 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 70 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 71 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 72 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 73 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 74 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 75 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 76 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 77 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 78 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 79 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 80 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 81 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 82 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 83 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 84 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 85 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 86 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 87 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 88 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 89 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 90 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 91 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 92 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 93 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 94 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 95 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 96 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 97 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 98 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 99 not found in images directory
+[2025-06-13 00:01:03] [crop_and_save_images] Image 100 not found in images directory
+[2025-06-13 00:01:03] [split_images_parts] 在文件夹 ../data/box_images 中没有找到图片文件
+[2025-06-13 00:01:14] [crop_and_save_images] Image 1 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 2 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 3 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 4 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 5 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 6 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 7 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 8 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 9 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 10 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 11 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 12 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 13 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 14 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 15 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 16 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 17 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 18 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 19 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 20 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 21 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 22 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 23 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 24 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 25 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 26 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 27 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 28 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 29 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 30 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 31 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 32 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 33 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 34 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 35 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 36 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 37 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 38 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 39 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 40 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 41 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 42 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 43 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 44 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 45 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 46 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 47 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 48 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 49 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 50 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 51 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 52 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 53 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 54 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 55 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 56 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 57 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 58 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 59 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 60 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 61 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 62 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 63 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 64 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 65 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 66 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 67 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 68 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 69 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 70 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 71 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 72 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 73 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 74 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 75 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 76 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 77 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 78 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 79 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 80 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 81 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 82 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 83 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 84 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 85 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 86 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 87 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 88 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 89 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 90 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 91 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 92 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 93 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 94 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 95 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 96 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 97 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 98 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 99 not found in images directory
+[2025-06-13 00:01:14] [crop_and_save_images] Image 100 not found in images directory
+[2025-06-13 00:01:14] [split_images_parts] 在文件夹 ../data/box_images 中没有找到图片文件
+[2025-06-13 00:01:42] [crop_and_save_images] Image 1 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 2 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 3 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 4 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 5 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 6 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 7 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 8 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 9 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 10 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 11 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 12 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 13 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 14 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 15 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 16 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 17 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 18 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 19 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 20 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 21 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 22 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 23 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 24 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 25 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 26 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 27 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 28 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 29 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 30 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 31 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 32 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 33 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 34 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 35 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 36 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 37 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 38 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 39 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 40 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 41 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 42 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 43 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 44 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 45 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 46 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 47 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 48 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 49 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 50 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 51 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 52 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 53 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 54 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 55 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 56 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 57 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 58 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 59 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 60 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 61 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 62 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 63 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 64 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 65 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 66 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 67 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 68 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 69 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 70 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 71 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 72 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 73 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 74 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 75 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 76 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 77 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 78 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 79 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 80 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 81 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 82 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 83 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 84 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 85 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 86 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 87 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 88 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 89 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 90 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 91 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 92 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 93 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 94 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 95 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 96 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 97 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 98 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 99 not found in images directory
+[2025-06-13 00:01:42] [crop_and_save_images] Image 100 not found in images directory
+[2025-06-13 00:01:42] [split_images_parts] 在文件夹 ../data/box_images 中没有找到图片文件
+[2025-06-13 00:02:14] [crop_and_save_images] Image 1 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 2 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 3 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 4 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 5 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 6 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 7 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 8 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 9 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 10 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 11 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 12 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 13 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 14 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 15 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 16 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 17 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 18 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 19 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 20 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 21 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 22 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 23 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 24 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 25 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 26 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 27 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 28 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 29 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 30 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 31 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 32 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 33 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 34 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 35 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 36 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 37 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 38 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 39 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 40 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 41 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 42 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 43 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 44 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 45 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 46 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 47 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 48 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 49 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 50 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 51 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 52 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 53 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 54 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 55 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 56 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 57 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 58 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 59 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 60 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 61 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 62 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 63 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 64 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 65 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 66 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 67 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 68 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 69 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 70 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 71 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 72 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 73 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 74 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 75 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 76 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 77 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 78 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 79 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 80 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 81 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 82 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 83 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 84 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 85 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 86 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 87 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 88 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 89 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 90 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 91 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 92 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 93 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 94 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 95 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 96 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 97 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 98 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 99 not found in images directory
+[2025-06-13 00:02:14] [crop_and_save_images] Image 100 not found in images directory
+[2025-06-13 00:02:19] [split_images_parts] 在文件夹 ../data/box_images 中没有找到图片文件
