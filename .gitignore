@@ -1,0 +1,15 @@
+# 开发工具配置（PyCharm）
+/.idea/
+/single_cnn/.idea/  # 若想简化，也可写为 single_cnn/**/.idea/（匹配single_cnn下所有层级的.idea)
+
+# 忽略指定目录
+/赛道一-刘业恒2022211374-张子阳2022211413-唐敬松2022211375/
+
+# Python 相关忽略
+*.whl  # 忽略所有whl包
+/single_cnn/__pycache__/  # 修正：Python缓存目录是双下划线
+/single_cnn/venv/  # 忽略虚拟环境
+
+# 先忽略所有.pth文件，再保留指定的.pth文件（例外规则必须在后）
+*.pth
+!/single_cnn/pth/final_model_thread2.pth  # 仅保留这个模型文件
